@@ -8,9 +8,9 @@
   - Variable_category
   - Value
   - Industry_code_ANZSIC06
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H01
@@ -19,9 +19,9 @@
   - 757,504
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H04
@@ -30,9 +30,9 @@
   - 674,890
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H05
@@ -41,9 +41,9 @@
   - 49,593
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H07
@@ -52,9 +52,9 @@
   - 33,020
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H08
@@ -63,9 +63,9 @@
   - 654,404
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H09
@@ -74,9 +74,9 @@
   - 26,138
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H10
@@ -85,9 +85,9 @@
   - 6,991
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H11
@@ -96,9 +96,9 @@
   - 27,801
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H12
@@ -107,20 +107,20 @@
   - 123,620
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H13
   - Redundancy and severance
   - Financial performance
-  - '275'
+  - "275"
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H14
@@ -129,9 +129,9 @@
   - 2,085
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H19
@@ -140,9 +140,9 @@
   - 452,963
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H20
@@ -151,9 +151,9 @@
   - 14,806
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H21
@@ -162,9 +162,9 @@
   - 68,896
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H22
@@ -173,9 +173,9 @@
   - 69,127
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H23
@@ -184,9 +184,9 @@
   - 103,330
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H24
@@ -195,9 +195,9 @@
   - 2,512,677
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H25
@@ -206,9 +206,9 @@
   - 730,587
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H26
@@ -217,9 +217,9 @@
   - 591,351
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H29
@@ -228,9 +228,9 @@
   - 1,190,739
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H30
@@ -239,9 +239,9 @@
   - 2,512,677
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H31
@@ -250,9 +250,9 @@
   - 813,949
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H32
@@ -261,9 +261,9 @@
   - 933,093
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars (millions)
   - H33
@@ -272,9 +272,9 @@
   - 765,635
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars
   - H34
@@ -283,9 +283,9 @@
   - 400,900
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Dollars
   - H35
@@ -294,36 +294,36 @@
   - 54,700
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Percentage
   - H36
   - Current ratio
   - Financial ratios
-  - '78'
+  - "78"
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Percentage
   - H37
   - Quick ratio
   - Financial ratios
-  - '71'
+  - "71"
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
-- - '2021'
+- - "2021"
   - Level 1
-  - '99999'
+  - "99999"
   - All industries
   - Percentage
   - H39
   - Return on equity
   - Financial ratios
-  - '13'
+  - "13"
   - ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772,
     S9540, S9601, S9602, and S9603)
