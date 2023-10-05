@@ -1,0 +1,419 @@
+pk,name
+1345,Kolkata
+1346,Howrah
+1347,Durgapur
+1348,Asansol
+1349,Siliguri
+1350,Bardhaman (Burdwan)
+1351,Kharagpur
+1352,Medinipur
+1353,Murshidabad
+1354,Raniganj
+1355,Alipurduar
+1356,Jalpaiguri
+1357,Birbhum
+1358,Cooch Behar
+1359,Malda
+1360,Raiganj
+1361,Balurghat
+1362,Bankura
+1363,Purulia
+1364,Krishnanagar
+1365,Haldia
+1366,Santipur
+1367,Raghunathganj
+1368,Suri
+1369,English Bazar (Malda)
+1370,Jaigaon
+1371,Jangipur
+1372,Kishanganj
+1373,Dum Dum
+1374,Barasat
+1375,Barrackpore
+1376,Naihati
+1377,Kanchrapara
+1378,Kalyani
+1379,Ashoknagar Kalyangarh
+1380,Bangaon
+1381,Habra
+1382,Bolpur
+1383,Chakdaha
+1384,Diamond Harbour
+1385,Farakka
+1386,Haldibari
+1387,Kulti
+1388,Khardaha
+1389,Raghunathganj
+1390,Rishra
+1391,Serampore
+1392,South Dum Dum
+1393,Kamarhati
+1394,Bidhannagar
+1395,Chandannagar
+1396,Hooghly
+1397,Chinsurah
+1398,Konnagar
+1399,Arambagh
+1400,Tamluk
+1401,Haldia
+1402,Tamluk
+1403,Midnapore
+1404,Jhargram
+1405,Ghatal
+1406,Contai
+1407,Egra
+1408,Kanthi
+1409,Champadanga
+1410,Bhadreswar
+1411,Rishra
+1412,Dankuni
+1413,Uluberia
+1414,Kamarhati
+1415,Baranagar
+1416,Alambazar
+1417,Dunlop
+1418,Barrackpore
+1419,Dumdum
+1420,Rajarhat
+1421,Birati
+1422,New Barrackpore
+1423,North Barrackpore
+1424,Bidhannagar
+1425,Bidhannagar (Salt Lake)
+1426,Santoshpur
+1427,Rajarhat Gopalpur
+1428,Barrackpore
+1429,Madhyamgram
+1430,Barasat
+1431,Kakdwip
+1432,Patharpratima
+1433,Joynagar
+1434,Bishnupur
+1435,Sonarpur
+1436,Rajpur Sonarpur
+1437,Baruipur
+1438,Diamond Harbour
+1439,Falakata
+1440,Mathabhanga
+1441,Abhayapuri
+1442,Kalimpong
+1443,Kurseong
+1444,Shiliguri
+1445,Mirik
+1446,Jalpaiguri
+1447,Alipurduar
+1448,Cooch Behar
+1449,Birpara
+1450,Kakdwip
+1451,Patharpratima
+1452,Joynagar
+1453,Bishnupur
+1454,Sonarpur
+1455,Rajpur Sonarpur
+1456,Baruipur
+1457,Diamond Harbour
+1458,Falakata
+1459,Mathabhanga
+1460,Abhayapuri
+1461,Kalimpong
+1462,Kurseong
+1463,Shiliguri
+1464,Mirik
+1465,Jalpaiguri
+1466,Alipurduar
+1467,Cooch Behar
+1468,Birpara
+1469,Malda
+1470,Raiganj
+1471,Balurghat
+1472,Bankura
+1473,Purulia
+1474,Krishnanagar
+1475,Krishnanagar
+1476,Kalyani
+1477,Ashoknagar Kalyangarh
+1478,Bangaon
+1479,Habra
+1480,Bolpur
+1481,Chakdaha
+1482,Diamond Harbour
+1483,Farakka
+1484,Haldibari
+1485,Kulti
+1486,Khardaha
+1487,Raghunathganj
+1488,Rishra
+1489,Serampore
+1490,South Dum Dum
+1491,Kamarhati
+1492,Bidhannagar
+1493,Chandannagar
+1494,Hooghly
+1495,Chinsurah
+1496,Konnagar
+1497,Arambagh
+1498,Tamluk
+1499,Haldia
+1500,Tamluk
+1501,Midnapore
+1502,Jhargram
+1503,Ghatal
+1504,Contai
+1505,Egra
+1506,Kanthi
+1507,Champadanga
+1508,Bhadreswar
+1509,Rishra
+1510,Dankuni
+1511,Uluberia
+1512,Kamarhati
+1513,Baranagar
+1514,Alambazar
+1515,Dunlop
+1516,Barrackpore
+1517,Dumdum
+1518,Rajarhat
+1519,Birati
+1520,New Barrackpore
+1521,North Barrackpore
+1522,Bidhannagar
+1523,Bidhannagar (Salt Lake)
+1524,Santoshpur
+1525,Rajarhat Gopalpur
+1526,Barrackpore
+1527,Madhyamgram
+1528,Barasat
+1529,Kakdwip
+1530,Patharpratima
+1531,Joynagar
+1532,Bishnupur
+1533,Sonarpur
+1534,Rajpur Sonarpur
+1535,Baruipur
+1536,Diamond Harbour
+1537,Falakata
+1538,Mathabhanga
+1539,Abhayapuri
+1540,Kalimpong
+1541,Kurseong
+1542,Shiliguri
+1543,Mirik
+1544,Jalpaiguri
+1545,Alipurduar
+1546,Cooch Behar
+1547,Birpara
+1548,Kakdwip
+1549,Patharpratima
+1550,Joynagar
+1551,Bishnupur
+1552,Sonarpur
+1553,Rajpur Sonarpur
+1554,Baruipur
+1555,Diamond Harbour
+1556,Falakata
+1557,Mathabhanga
+1558,Abhayapuri
+1559,Kalimpong
+1560,Kurseong
+1561,Shiliguri
+1562,Mirik
+1563,Jalpaiguri
+1564,Alipurduar
+1565,Cooch Behar
+1566,Birpara
+1567,Kolkata
+1568,Howrah
+1569,Durgapur
+1570,Asansol
+1571,Siliguri
+1572,Bardhaman (Burdwan)
+1573,Kharagpur
+1574,Medinipur
+1575,Murshidabad
+1576,Raniganj
+1577,Alipurduar
+1578,Jalpaiguri
+1579,Birbhum
+1580,Cooch Behar
+1581,Malda
+1582,Raiganj
+1583,Balurghat
+1584,Bankura
+1585,Purulia
+1586,Krishnanagar
+1587,Haldia
+1588,Santipur
+1589,Raghunathganj
+1590,Suri
+1591,English Bazar (Malda)
+1592,Jaigaon
+1593,Jangipur
+1594,Kishanganj
+1595,Dum Dum
+1596,Barasat
+1597,Barrackpore
+1598,Naihati
+1599,Kanchrapara
+1600,Kalyani
+1601,Ashoknagar Kalyangarh
+1602,Bangaon
+1603,Habra
+1604,Bolpur
+1605,Chakdaha
+1606,Diamond Harbour
+1607,Farakka
+1608,Haldibari
+1609,Kulti
+1610,Khardaha
+1611,Raghunathganj
+1612,Rishra
+1613,Serampore
+1614,South Dum Dum
+1615,Kamarhati
+1616,Bidhannagar
+1617,Chandannagar
+1618,Hooghly
+1619,Chinsurah
+1620,Konnagar
+1621,Arambagh
+1622,Tamluk
+1623,Haldia
+1624,Tamluk
+1625,Midnapore
+1626,Jhargram
+1627,Ghatal
+1628,Contai
+1629,Egra
+1630,Kanthi
+1631,Champadanga
+1632,Bhadreswar
+1633,Rishra
+1634,Dankuni
+1635,Uluberia
+1636,Kamarhati
+1637,Baranagar
+1638,Alambazar
+1639,Dunlop
+1640,Barrackpore
+1641,Dumdum
+1642,Rajarhat
+1643,Birati
+1644,New Barrackpore
+1645,North Barrackpore
+1646,Bidhannagar
+1647,Bidhannagar (Salt Lake)
+1648,Santoshpur
+1649,Rajarhat Gopalpur
+1650,Barrackpore
+1651,Madhyamgram
+1652,Barasat
+1653,Kakdwip
+1654,Patharpratima
+1655,Joynagar
+1656,Bishnupur
+1657,Sonarpur
+1658,Rajpur Sonarpur
+1659,Baruipur
+1660,Diamond Harbour
+1661,Falakata
+1662,Mathabhanga
+1663,Abhayapuri
+1664,Kalimpong
+1665,Kurseong
+1666,Shiliguri
+1667,Mirik
+1668,Jalpaiguri
+1669,Alipurduar
+1670,Cooch Behar
+1671,Birpara
+1672,Malda
+1673,Raiganj
+1674,Balurghat
+1675,Bankura
+1676,Purulia
+1677,Krishnanagar
+1678,Haldia
+1679,Santipur
+1680,Raghunathganj
+1681,Suri
+1682,English Bazar (Malda)
+1683,Jaigaon
+1684,Jangipur
+1685,Kishanganj
+1686,Dum Dum
+1687,Barasat
+1688,Barrackpore
+1689,Naihati
+1690,Kanchrapara
+1691,Kalyani
+1692,Ashoknagar Kalyangarh
+1693,Bangaon
+1694,Habra
+1695,Bolpur
+1696,Chakdaha
+1697,Diamond Harbour
+1698,Farakka
+1699,Haldibari
+1700,Kulti
+1701,Khardaha
+1702,Raghunathganj
+1703,Rishra
+1704,Serampore
+1705,South Dum Dum
+1706,Kamarhati
+1707,Bidhannagar
+1708,Chandannagar
+1709,Hooghly
+1710,Chinsurah
+1711,Konnagar
+1712,Arambagh
+1713,Tamluk
+1714,Haldia
+1715,Tamluk
+1716,Midnapore
+1717,Jhargram
+1718,Ghatal
+1719,Contai
+1720,Egra
+1721,Kanthi
+1722,Champadanga
+1723,Bhadreswar
+1724,Rishra
+1725,Dankuni
+1726,Uluberia
+1727,Kamarhati
+1728,Baranagar
+1729,Alambazar
+1730,Dunlop
+1731,Barrackpore
+1732,Dumdum
+1733,Rajarhat
+1734,Birati
+1735,New Barrackpore
+1736,North Barrackpore
+1737,Bidhannagar
+1738,Bidhannagar (Salt Lake)
+1739,Santoshpur
+1740,Rajarhat Gopalpur
+1741,Barrackpore
+1742,Madhyamgram
+1743,Barasat
+1744,Kakdwip
+1745,Patharpratima
+1746,Joynagar
+1747,Bishnupur
+1748,Sonarpur
+1749,Rajpur Sonarpur
+1750,Baruipur
+1751,Diamond Harbour
+1752,Falakata
+1753,Mathabhanga
+1754,Abhayapuri
+1755,Kalimpong
+1756,Kurseong
+1757,Shiliguri
+1758,Mirik
+1759,Jalpaiguri
+1760,Alipurduar
+1761,Cooch Behar
+1762,Birpara

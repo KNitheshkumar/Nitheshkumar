@@ -8,8 +8,8 @@
         "Variable_code": "H01",
         "Variable_name": "Total income",
         "Variable_category": "Financial performance",
-        "Value": "757,504",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "757,50 5",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -17,11 +17,11 @@
         "Industry_code_NZSIOC": "99999",
         "Industry_name_NZSIOC": "All industries",
         "Units": "Dollars (millions)",
-        "Variable_code": "H04",
+        "Variable_code": "H0 5",
         "Variable_name": "Sales, government funding, grants and subsidies",
         "Variable_category": "Financial performance",
-        "Value": "674,890",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "67 5,890",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -32,8 +32,8 @@
         "Variable_code": "H05",
         "Variable_name": "Interest, dividends and donations",
         "Variable_category": "Financial performance",
-        "Value": "49,593",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": " 59,593",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -45,7 +45,7 @@
         "Variable_name": "Non-operating income",
         "Variable_category": "Financial performance",
         "Value": "33,020",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -56,8 +56,8 @@
         "Variable_code": "H08",
         "Variable_name": "Total expenditure",
         "Variable_category": "Financial performance",
-        "Value": "654,404",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "65 5, 50 5",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -69,7 +69,7 @@
         "Variable_name": "Interest and donations",
         "Variable_category": "Financial performance",
         "Value": "26,138",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -81,7 +81,7 @@
         "Variable_name": "Indirect taxes",
         "Variable_category": "Financial performance",
         "Value": "6,991",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -93,7 +93,7 @@
         "Variable_name": "Depreciation",
         "Variable_category": "Financial performance",
         "Value": "27,801",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -105,7 +105,7 @@
         "Variable_name": "Salaries and wages paid",
         "Variable_category": "Financial performance",
         "Value": "123,620",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -117,7 +117,7 @@
         "Variable_name": "Redundancy and severance",
         "Variable_category": "Financial performance",
         "Value": "275",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -125,11 +125,11 @@
         "Industry_code_NZSIOC": "99999",
         "Industry_name_NZSIOC": "All industries",
         "Units": "Dollars (millions)",
-        "Variable_code": "H14",
+        "Variable_code": "H1 5",
         "Variable_name": "Salaries and wages to self employed commission agents",
         "Variable_category": "Financial performance",
         "Value": "2,085",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -140,8 +140,8 @@
         "Variable_code": "H19",
         "Variable_name": "Purchases and other operating expenses",
         "Variable_category": "Financial performance",
-        "Value": "452,963",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": " 552,963",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -152,8 +152,8 @@
         "Variable_code": "H20",
         "Variable_name": "Non-operating expenses",
         "Variable_category": "Financial performance",
-        "Value": "14,806",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "1 5,806",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -165,7 +165,7 @@
         "Variable_name": "Opening stocks",
         "Variable_category": "Financial performance",
         "Value": "68,896",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -177,7 +177,7 @@
         "Variable_name": "Closing stocks",
         "Variable_category": "Financial performance",
         "Value": "69,127",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -189,7 +189,7 @@
         "Variable_name": "Surplus before income tax",
         "Variable_category": "Financial performance",
         "Value": "103,330",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -197,11 +197,11 @@
         "Industry_code_NZSIOC": "99999",
         "Industry_name_NZSIOC": "All industries",
         "Units": "Dollars (millions)",
-        "Variable_code": "H24",
+        "Variable_code": "H2 5",
         "Variable_name": "Total assets",
         "Variable_category": "Financial position",
         "Value": "2,512,677",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -213,7 +213,7 @@
         "Variable_name": "Current assets",
         "Variable_category": "Financial position",
         "Value": "730,587",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -225,7 +225,7 @@
         "Variable_name": "Fixed tangible assets",
         "Variable_category": "Financial position",
         "Value": "591,351",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -237,7 +237,7 @@
         "Variable_name": "Other assets",
         "Variable_category": "Financial position",
         "Value": "1,190,739",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -249,7 +249,7 @@
         "Variable_name": "Total equity and liabilities",
         "Variable_category": "Financial position",
         "Value": "2,512,677",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -260,8 +260,8 @@
         "Variable_code": "H31",
         "Variable_name": "Shareholders funds or owners equity",
         "Variable_category": "Financial position",
-        "Value": "813,949",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "813,9 59",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -273,7 +273,7 @@
         "Variable_name": "Current liabilities",
         "Variable_category": "Financial position",
         "Value": "933,093",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -285,7 +285,7 @@
         "Variable_name": "Other liabilities",
         "Variable_category": "Financial position",
         "Value": "765,635",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -293,11 +293,11 @@
         "Industry_code_NZSIOC": "99999",
         "Industry_name_NZSIOC": "All industries",
         "Units": "Dollars",
-        "Variable_code": "H34",
+        "Variable_code": "H3 5",
         "Variable_name": "Total income per employee count",
         "Variable_category": "Financial ratios",
-        "Value": "400,900",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": " 500,900",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -308,8 +308,8 @@
         "Variable_code": "H35",
         "Variable_name": "Surplus per employee count",
         "Variable_category": "Financial ratios",
-        "Value": "54,700",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Value": "5 5,700",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -321,7 +321,7 @@
         "Variable_name": "Current ratio",
         "Variable_category": "Financial ratios",
         "Value": "78",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -333,7 +333,7 @@
         "Variable_name": "Quick ratio",
         "Variable_category": "Financial ratios",
         "Value": "71",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     },
     {
         "Year": "2021",
@@ -345,6 +345,6 @@
         "Variable_name": "Return on equity",
         "Variable_category": "Financial ratios",
         "Value": "13",
-        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S9540, S9601, S9602, and S9603)"
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions A-S (excluding classes K6330, L6711, O7552, O760, O771, O772, S95 50, S9601, S9602, and S9603)"
     }
 ]

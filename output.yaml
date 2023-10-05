@@ -1,15 +1,15 @@
-- fields:
-    city: ' Mumbai'
-    name: ' IIT ( Indian Institute of Technology )'
+-     fields:
+    city: 'Mumbai'
+    name: 'IIT ( Indian Institute of Technology )'
   model: api.college
   pk: 1
-- fields:
-    city: ' Chennai'
-    name: ' IIT ( Indian Institute of Technology )'
+-     fields:
+    city: 'Chennai'
+    name: 'IIT ( Indian Institute of Technology )'
   model: api.college
   pk: 2
-- fields:
-    city: ' Kanpur'
-    name: ' IIT ( Indian Institute of Technology )'
+-     fields:
+    city: 'Kanpur'
+    name: 'IIT ( Indian Institute of Technology )'
   model: api.college
   pk: 3

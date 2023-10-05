@@ -1,8 +1,8 @@
 import csv
 import yaml
 
-csv_file = "iit.csv"
-yaml_file = "output.yaml"
+csv_file = "West_Bengal29.csv"
+yaml_file = "state.yaml"
 
 data = []
 with open(csv_file, mode="r") as file:
@@ -12,16 +12,20 @@ with open(csv_file, mode="r") as file:
         
 output_data = []
 for row in data:
-    item = {
-        "model": "api.college",
+    item ={
+    "model": "api.city",
         "pk": int(row["pk"]),
-        "fields": {
+            "fields":{
             "name": row["name"],
-            "city": row["city"]
-        }
+            "state": 29
+    
+            },
+    "y": 8
+            
     }
     output_data.append(item)
 with open(yaml_file, mode="w") as file:
-    yaml.dump(output_data, file)
+    yaml.dump(output_data, file,default_flow_style=False, indent=10)
+    output_data = '\n---\n'
 
 print(f"CSV data has been converted to YAML and saved to {yaml_file}.")

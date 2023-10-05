@@ -1,0 +1,2508 @@
+- model: api.city
+  pk: 1345
+  fields:
+    name: Kolkata
+    state: 29
+
+- model: api.city
+  pk: 1346
+  fields:
+    name: Howrah
+    state: 29
+
+- model: api.city
+  pk: 1347
+  fields:
+    name: Durgapur
+    state: 29
+
+- model: api.city
+  pk: 1348
+  fields:
+    name: Asansol
+    state: 29
+
+- model: api.city
+  pk: 1349
+  fields:
+    name: Siliguri
+    state: 29
+
+- model: api.city
+  pk: 1350
+  fields:
+    name: Bardhaman (Burdwan)
+    state: 29
+
+- model: api.city
+  pk: 1351
+  fields:
+    name: Kharagpur
+    state: 29
+
+- model: api.city
+  pk: 1352
+  fields:
+    name: Medinipur
+    state: 29
+
+- model: api.city
+  pk: 1353
+  fields:
+    name: Murshidabad
+    state: 29
+
+- model: api.city
+  pk: 1354
+  fields:
+    name: Raniganj
+    state: 29
+
+- model: api.city
+  pk: 1355
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1356
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1357
+  fields:
+    name: Birbhum
+    state: 29
+
+- model: api.city
+  pk: 1358
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1359
+  fields:
+    name: Malda
+    state: 29
+
+- model: api.city
+  pk: 1360
+  fields:
+    name: Raiganj
+    state: 29
+
+- model: api.city
+  pk: 1361
+  fields:
+    name: Balurghat
+    state: 29
+
+- model: api.city
+  pk: 1362
+  fields:
+    name: Bankura
+    state: 29
+
+- model: api.city
+  pk: 1363
+  fields:
+    name: Purulia
+    state: 29
+
+- model: api.city
+  pk: 1364
+  fields:
+    name: Krishnanagar
+    state: 29
+
+- model: api.city
+  pk: 1365
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1366
+  fields:
+    name: Santipur
+    state: 29
+
+- model: api.city
+  pk: 1367
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1368
+  fields:
+    name: Suri
+    state: 29
+
+- model: api.city
+  pk: 1369
+  fields:
+    name: English Bazar (Malda)
+    state: 29
+
+- model: api.city
+  pk: 1370
+  fields:
+    name: Jaigaon
+    state: 29
+
+- model: api.city
+  pk: 1371
+  fields:
+    name: Jangipur
+    state: 29
+
+- model: api.city
+  pk: 1372
+  fields:
+    name: Kishanganj
+    state: 29
+
+- model: api.city
+  pk: 1373
+  fields:
+    name: Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1374
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1375
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1376
+  fields:
+    name: Naihati
+    state: 29
+
+- model: api.city
+  pk: 1377
+  fields:
+    name: Kanchrapara
+    state: 29
+
+- model: api.city
+  pk: 1378
+  fields:
+    name: Kalyani
+    state: 29
+
+- model: api.city
+  pk: 1379
+  fields:
+    name: Ashoknagar Kalyangarh
+    state: 29
+
+- model: api.city
+  pk: 1380
+  fields:
+    name: Bangaon
+    state: 29
+
+- model: api.city
+  pk: 1381
+  fields:
+    name: Habra
+    state: 29
+
+- model: api.city
+  pk: 1382
+  fields:
+    name: Bolpur
+    state: 29
+
+- model: api.city
+  pk: 1383
+  fields:
+    name: Chakdaha
+    state: 29
+
+- model: api.city
+  pk: 1384
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1385
+  fields:
+    name: Farakka
+    state: 29
+
+- model: api.city
+  pk: 1386
+  fields:
+    name: Haldibari
+    state: 29
+
+- model: api.city
+  pk: 1387
+  fields:
+    name: Kulti
+    state: 29
+
+- model: api.city
+  pk: 1388
+  fields:
+    name: Khardaha
+    state: 29
+
+- model: api.city
+  pk: 1389
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1390
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1391
+  fields:
+    name: Serampore
+    state: 29
+
+- model: api.city
+  pk: 1392
+  fields:
+    name: South Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1393
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1394
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1395
+  fields:
+    name: Chandannagar
+    state: 29
+
+- model: api.city
+  pk: 1396
+  fields:
+    name: Hooghly
+    state: 29
+
+- model: api.city
+  pk: 1397
+  fields:
+    name: Chinsurah
+    state: 29
+
+- model: api.city
+  pk: 1398
+  fields:
+    name: Konnagar
+    state: 29
+
+- model: api.city
+  pk: 1399
+  fields:
+    name: Arambagh
+    state: 29
+
+- model: api.city
+  pk: 1400
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1401
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1402
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1403
+  fields:
+    name: Midnapore
+    state: 29
+
+- model: api.city
+  pk: 1404
+  fields:
+    name: Jhargram
+    state: 29
+
+- model: api.city
+  pk: 1405
+  fields:
+    name: Ghatal
+    state: 29
+
+- model: api.city
+  pk: 1406
+  fields:
+    name: Contai
+    state: 29
+
+- model: api.city
+  pk: 1407
+  fields:
+    name: Egra
+    state: 29
+
+- model: api.city
+  pk: 1408
+  fields:
+    name: Kanthi
+    state: 29
+
+- model: api.city
+  pk: 1409
+  fields:
+    name: Champadanga
+    state: 29
+
+- model: api.city
+  pk: 1410
+  fields:
+    name: Bhadreswar
+    state: 29
+
+- model: api.city
+  pk: 1411
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1412
+  fields:
+    name: Dankuni
+    state: 29
+
+- model: api.city
+  pk: 1413
+  fields:
+    name: Uluberia
+    state: 29
+
+- model: api.city
+  pk: 1414
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1415
+  fields:
+    name: Baranagar
+    state: 29
+
+- model: api.city
+  pk: 1416
+  fields:
+    name: Alambazar
+    state: 29
+
+- model: api.city
+  pk: 1417
+  fields:
+    name: Dunlop
+    state: 29
+
+- model: api.city
+  pk: 1418
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1419
+  fields:
+    name: Dumdum
+    state: 29
+
+- model: api.city
+  pk: 1420
+  fields:
+    name: Rajarhat
+    state: 29
+
+- model: api.city
+  pk: 1421
+  fields:
+    name: Birati
+    state: 29
+
+- model: api.city
+  pk: 1422
+  fields:
+    name: New Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1423
+  fields:
+    name: North Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1424
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1425
+  fields:
+    name: Bidhannagar (Salt Lake)
+    state: 29
+
+- model: api.city
+  pk: 1426
+  fields:
+    name: Santoshpur
+    state: 29
+
+- model: api.city
+  pk: 1427
+  fields:
+    name: Rajarhat Gopalpur
+    state: 29
+
+- model: api.city
+  pk: 1428
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1429
+  fields:
+    name: Madhyamgram
+    state: 29
+
+- model: api.city
+  pk: 1430
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1431
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1432
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1433
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1434
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1435
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1436
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1437
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1438
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1439
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1440
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1441
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1442
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1443
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1444
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1445
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1446
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1447
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1448
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1449
+  fields:
+    name: Birpara
+    state: 29
+
+- model: api.city
+  pk: 1450
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1451
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1452
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1453
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1454
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1455
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1456
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1457
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1458
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1459
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1460
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1461
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1462
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1463
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1464
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1465
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1466
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1467
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1468
+  fields:
+    name: Birpara
+    state: 29
+
+- model: api.city
+  pk: 1469
+  fields:
+    name: Malda
+    state: 29
+
+- model: api.city
+  pk: 1470
+  fields:
+    name: Raiganj
+    state: 29
+
+- model: api.city
+  pk: 1471
+  fields:
+    name: Balurghat
+    state: 29
+
+- model: api.city
+  pk: 1472
+  fields:
+    name: Bankura
+    state: 29
+
+- model: api.city
+  pk: 1473
+  fields:
+    name: Purulia
+    state: 29
+
+- model: api.city
+  pk: 1474
+  fields:
+    name: Krishnanagar
+    state: 29
+
+- model: api.city
+  pk: 1475
+  fields:
+    name: Krishnanagar
+    state: 29
+
+- model: api.city
+  pk: 1476
+  fields:
+    name: Kalyani
+    state: 29
+
+- model: api.city
+  pk: 1477
+  fields:
+    name: Ashoknagar Kalyangarh
+    state: 29
+
+- model: api.city
+  pk: 1478
+  fields:
+    name: Bangaon
+    state: 29
+
+- model: api.city
+  pk: 1479
+  fields:
+    name: Habra
+    state: 29
+
+- model: api.city
+  pk: 1480
+  fields:
+    name: Bolpur
+    state: 29
+
+- model: api.city
+  pk: 1481
+  fields:
+    name: Chakdaha
+    state: 29
+
+- model: api.city
+  pk: 1482
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1483
+  fields:
+    name: Farakka
+    state: 29
+
+- model: api.city
+  pk: 1484
+  fields:
+    name: Haldibari
+    state: 29
+
+- model: api.city
+  pk: 1485
+  fields:
+    name: Kulti
+    state: 29
+
+- model: api.city
+  pk: 1486
+  fields:
+    name: Khardaha
+    state: 29
+
+- model: api.city
+  pk: 1487
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1488
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1489
+  fields:
+    name: Serampore
+    state: 29
+
+- model: api.city
+  pk: 1490
+  fields:
+    name: South Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1491
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1492
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1493
+  fields:
+    name: Chandannagar
+    state: 29
+
+- model: api.city
+  pk: 1494
+  fields:
+    name: Hooghly
+    state: 29
+
+- model: api.city
+  pk: 1495
+  fields:
+    name: Chinsurah
+    state: 29
+
+- model: api.city
+  pk: 1496
+  fields:
+    name: Konnagar
+    state: 29
+
+- model: api.city
+  pk: 1497
+  fields:
+    name: Arambagh
+    state: 29
+
+- model: api.city
+  pk: 1498
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1499
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1500
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1501
+  fields:
+    name: Midnapore
+    state: 29
+
+- model: api.city
+  pk: 1502
+  fields:
+    name: Jhargram
+    state: 29
+
+- model: api.city
+  pk: 1503
+  fields:
+    name: Ghatal
+    state: 29
+
+- model: api.city
+  pk: 1504
+  fields:
+    name: Contai
+    state: 29
+
+- model: api.city
+  pk: 1505
+  fields:
+    name: Egra
+    state: 29
+
+- model: api.city
+  pk: 1506
+  fields:
+    name: Kanthi
+    state: 29
+
+- model: api.city
+  pk: 1507
+  fields:
+    name: Champadanga
+    state: 29
+
+- model: api.city
+  pk: 1508
+  fields:
+    name: Bhadreswar
+    state: 29
+
+- model: api.city
+  pk: 1509
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1510
+  fields:
+    name: Dankuni
+    state: 29
+
+- model: api.city
+  pk: 1511
+  fields:
+    name: Uluberia
+    state: 29
+
+- model: api.city
+  pk: 1512
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1513
+  fields:
+    name: Baranagar
+    state: 29
+
+- model: api.city
+  pk: 1514
+  fields:
+    name: Alambazar
+    state: 29
+
+- model: api.city
+  pk: 1515
+  fields:
+    name: Dunlop
+    state: 29
+
+- model: api.city
+  pk: 1516
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1517
+  fields:
+    name: Dumdum
+    state: 29
+
+- model: api.city
+  pk: 1518
+  fields:
+    name: Rajarhat
+    state: 29
+
+- model: api.city
+  pk: 1519
+  fields:
+    name: Birati
+    state: 29
+
+- model: api.city
+  pk: 1520
+  fields:
+    name: New Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1521
+  fields:
+    name: North Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1522
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1523
+  fields:
+    name: Bidhannagar (Salt Lake)
+    state: 29
+
+- model: api.city
+  pk: 1524
+  fields:
+    name: Santoshpur
+    state: 29
+
+- model: api.city
+  pk: 1525
+  fields:
+    name: Rajarhat Gopalpur
+    state: 29
+
+- model: api.city
+  pk: 1526
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1527
+  fields:
+    name: Madhyamgram
+    state: 29
+
+- model: api.city
+  pk: 1528
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1529
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1530
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1531
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1532
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1533
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1534
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1535
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1536
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1537
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1538
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1539
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1540
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1541
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1542
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1543
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1544
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1545
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1546
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1547
+  fields:
+    name: Birpara
+    state: 29
+
+- model: api.city
+  pk: 1548
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1549
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1550
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1551
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1552
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1553
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1554
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1555
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1556
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1557
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1558
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1559
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1560
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1561
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1562
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1563
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1564
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1565
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1566
+  fields:
+    name: Birpara
+    state: 29
+
+- model: api.city
+  pk: 1567
+  fields:
+    name: Kolkata
+    state: 29
+
+- model: api.city
+  pk: 1568
+  fields:
+    name: Howrah
+    state: 29
+
+- model: api.city
+  pk: 1569
+  fields:
+    name: Durgapur
+    state: 29
+
+- model: api.city
+  pk: 1570
+  fields:
+    name: Asansol
+    state: 29
+
+- model: api.city
+  pk: 1571
+  fields:
+    name: Siliguri
+    state: 29
+
+- model: api.city
+  pk: 1572
+  fields:
+    name: Bardhaman (Burdwan)
+    state: 29
+
+- model: api.city
+  pk: 1573
+  fields:
+    name: Kharagpur
+    state: 29
+
+- model: api.city
+  pk: 1574
+  fields:
+    name: Medinipur
+    state: 29
+
+- model: api.city
+  pk: 1575
+  fields:
+    name: Murshidabad
+    state: 29
+
+- model: api.city
+  pk: 1576
+  fields:
+    name: Raniganj
+    state: 29
+
+- model: api.city
+  pk: 1577
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1578
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1579
+  fields:
+    name: Birbhum
+    state: 29
+
+- model: api.city
+  pk: 1580
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1581
+  fields:
+    name: Malda
+    state: 29
+
+- model: api.city
+  pk: 1582
+  fields:
+    name: Raiganj
+    state: 29
+
+- model: api.city
+  pk: 1583
+  fields:
+    name: Balurghat
+    state: 29
+
+- model: api.city
+  pk: 1584
+  fields:
+    name: Bankura
+    state: 29
+
+- model: api.city
+  pk: 1585
+  fields:
+    name: Purulia
+    state: 29
+
+- model: api.city
+  pk: 1586
+  fields:
+    name: Krishnanagar
+    state: 29
+
+- model: api.city
+  pk: 1587
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1588
+  fields:
+    name: Santipur
+    state: 29
+
+- model: api.city
+  pk: 1589
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1590
+  fields:
+    name: Suri
+    state: 29
+
+- model: api.city
+  pk: 1591
+  fields:
+    name: English Bazar (Malda)
+    state: 29
+
+- model: api.city
+  pk: 1592
+  fields:
+    name: Jaigaon
+    state: 29
+
+- model: api.city
+  pk: 1593
+  fields:
+    name: Jangipur
+    state: 29
+
+- model: api.city
+  pk: 1594
+  fields:
+    name: Kishanganj
+    state: 29
+
+- model: api.city
+  pk: 1595
+  fields:
+    name: Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1596
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1597
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1598
+  fields:
+    name: Naihati
+    state: 29
+
+- model: api.city
+  pk: 1599
+  fields:
+    name: Kanchrapara
+    state: 29
+
+- model: api.city
+  pk: 1600
+  fields:
+    name: Kalyani
+    state: 29
+
+- model: api.city
+  pk: 1601
+  fields:
+    name: Ashoknagar Kalyangarh
+    state: 29
+
+- model: api.city
+  pk: 1602
+  fields:
+    name: Bangaon
+    state: 29
+
+- model: api.city
+  pk: 1603
+  fields:
+    name: Habra
+    state: 29
+
+- model: api.city
+  pk: 1604
+  fields:
+    name: Bolpur
+    state: 29
+
+- model: api.city
+  pk: 1605
+  fields:
+    name: Chakdaha
+    state: 29
+
+- model: api.city
+  pk: 1606
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1607
+  fields:
+    name: Farakka
+    state: 29
+
+- model: api.city
+  pk: 1608
+  fields:
+    name: Haldibari
+    state: 29
+
+- model: api.city
+  pk: 1609
+  fields:
+    name: Kulti
+    state: 29
+
+- model: api.city
+  pk: 1610
+  fields:
+    name: Khardaha
+    state: 29
+
+- model: api.city
+  pk: 1611
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1612
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1613
+  fields:
+    name: Serampore
+    state: 29
+
+- model: api.city
+  pk: 1614
+  fields:
+    name: South Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1615
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1616
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1617
+  fields:
+    name: Chandannagar
+    state: 29
+
+- model: api.city
+  pk: 1618
+  fields:
+    name: Hooghly
+    state: 29
+
+- model: api.city
+  pk: 1619
+  fields:
+    name: Chinsurah
+    state: 29
+
+- model: api.city
+  pk: 1620
+  fields:
+    name: Konnagar
+    state: 29
+
+- model: api.city
+  pk: 1621
+  fields:
+    name: Arambagh
+    state: 29
+
+- model: api.city
+  pk: 1622
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1623
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1624
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1625
+  fields:
+    name: Midnapore
+    state: 29
+
+- model: api.city
+  pk: 1626
+  fields:
+    name: Jhargram
+    state: 29
+
+- model: api.city
+  pk: 1627
+  fields:
+    name: Ghatal
+    state: 29
+
+- model: api.city
+  pk: 1628
+  fields:
+    name: Contai
+    state: 29
+
+- model: api.city
+  pk: 1629
+  fields:
+    name: Egra
+    state: 29
+
+- model: api.city
+  pk: 1630
+  fields:
+    name: Kanthi
+    state: 29
+
+- model: api.city
+  pk: 1631
+  fields:
+    name: Champadanga
+    state: 29
+
+- model: api.city
+  pk: 1632
+  fields:
+    name: Bhadreswar
+    state: 29
+
+- model: api.city
+  pk: 1633
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1634
+  fields:
+    name: Dankuni
+    state: 29
+
+- model: api.city
+  pk: 1635
+  fields:
+    name: Uluberia
+    state: 29
+
+- model: api.city
+  pk: 1636
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1637
+  fields:
+    name: Baranagar
+    state: 29
+
+- model: api.city
+  pk: 1638
+  fields:
+    name: Alambazar
+    state: 29
+
+- model: api.city
+  pk: 1639
+  fields:
+    name: Dunlop
+    state: 29
+
+- model: api.city
+  pk: 1640
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1641
+  fields:
+    name: Dumdum
+    state: 29
+
+- model: api.city
+  pk: 1642
+  fields:
+    name: Rajarhat
+    state: 29
+
+- model: api.city
+  pk: 1643
+  fields:
+    name: Birati
+    state: 29
+
+- model: api.city
+  pk: 1644
+  fields:
+    name: New Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1645
+  fields:
+    name: North Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1646
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1647
+  fields:
+    name: Bidhannagar (Salt Lake)
+    state: 29
+
+- model: api.city
+  pk: 1648
+  fields:
+    name: Santoshpur
+    state: 29
+
+- model: api.city
+  pk: 1649
+  fields:
+    name: Rajarhat Gopalpur
+    state: 29
+
+- model: api.city
+  pk: 1650
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1651
+  fields:
+    name: Madhyamgram
+    state: 29
+
+- model: api.city
+  pk: 1652
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1653
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1654
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1655
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1656
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1657
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1658
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1659
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1660
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1661
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1662
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1663
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1664
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1665
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1666
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1667
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1668
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1669
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1670
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1671
+  fields:
+    name: Birpara
+    state: 29
+
+- model: api.city
+  pk: 1672
+  fields:
+    name: Malda
+    state: 29
+
+- model: api.city
+  pk: 1673
+  fields:
+    name: Raiganj
+    state: 29
+
+- model: api.city
+  pk: 1674
+  fields:
+    name: Balurghat
+    state: 29
+
+- model: api.city
+  pk: 1675
+  fields:
+    name: Bankura
+    state: 29
+
+- model: api.city
+  pk: 1676
+  fields:
+    name: Purulia
+    state: 29
+
+- model: api.city
+  pk: 1677
+  fields:
+    name: Krishnanagar
+    state: 29
+
+- model: api.city
+  pk: 1678
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1679
+  fields:
+    name: Santipur
+    state: 29
+
+- model: api.city
+  pk: 1680
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1681
+  fields:
+    name: Suri
+    state: 29
+
+- model: api.city
+  pk: 1682
+  fields:
+    name: English Bazar (Malda)
+    state: 29
+
+- model: api.city
+  pk: 1683
+  fields:
+    name: Jaigaon
+    state: 29
+
+- model: api.city
+  pk: 1684
+  fields:
+    name: Jangipur
+    state: 29
+
+- model: api.city
+  pk: 1685
+  fields:
+    name: Kishanganj
+    state: 29
+
+- model: api.city
+  pk: 1686
+  fields:
+    name: Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1687
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1688
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1689
+  fields:
+    name: Naihati
+    state: 29
+
+- model: api.city
+  pk: 1690
+  fields:
+    name: Kanchrapara
+    state: 29
+
+- model: api.city
+  pk: 1691
+  fields:
+    name: Kalyani
+    state: 29
+
+- model: api.city
+  pk: 1692
+  fields:
+    name: Ashoknagar Kalyangarh
+    state: 29
+
+- model: api.city
+  pk: 1693
+  fields:
+    name: Bangaon
+    state: 29
+
+- model: api.city
+  pk: 1694
+  fields:
+    name: Habra
+    state: 29
+
+- model: api.city
+  pk: 1695
+  fields:
+    name: Bolpur
+    state: 29
+
+- model: api.city
+  pk: 1696
+  fields:
+    name: Chakdaha
+    state: 29
+
+- model: api.city
+  pk: 1697
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1698
+  fields:
+    name: Farakka
+    state: 29
+
+- model: api.city
+  pk: 1699
+  fields:
+    name: Haldibari
+    state: 29
+
+- model: api.city
+  pk: 1700
+  fields:
+    name: Kulti
+    state: 29
+
+- model: api.city
+  pk: 1701
+  fields:
+    name: Khardaha
+    state: 29
+
+- model: api.city
+  pk: 1702
+  fields:
+    name: Raghunathganj
+    state: 29
+
+- model: api.city
+  pk: 1703
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1704
+  fields:
+    name: Serampore
+    state: 29
+
+- model: api.city
+  pk: 1705
+  fields:
+    name: South Dum Dum
+    state: 29
+
+- model: api.city
+  pk: 1706
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1707
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1708
+  fields:
+    name: Chandannagar
+    state: 29
+
+- model: api.city
+  pk: 1709
+  fields:
+    name: Hooghly
+    state: 29
+
+- model: api.city
+  pk: 1710
+  fields:
+    name: Chinsurah
+    state: 29
+
+- model: api.city
+  pk: 1711
+  fields:
+    name: Konnagar
+    state: 29
+
+- model: api.city
+  pk: 1712
+  fields:
+    name: Arambagh
+    state: 29
+
+- model: api.city
+  pk: 1713
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1714
+  fields:
+    name: Haldia
+    state: 29
+
+- model: api.city
+  pk: 1715
+  fields:
+    name: Tamluk
+    state: 29
+
+- model: api.city
+  pk: 1716
+  fields:
+    name: Midnapore
+    state: 29
+
+- model: api.city
+  pk: 1717
+  fields:
+    name: Jhargram
+    state: 29
+
+- model: api.city
+  pk: 1718
+  fields:
+    name: Ghatal
+    state: 29
+
+- model: api.city
+  pk: 1719
+  fields:
+    name: Contai
+    state: 29
+
+- model: api.city
+  pk: 1720
+  fields:
+    name: Egra
+    state: 29
+
+- model: api.city
+  pk: 1721
+  fields:
+    name: Kanthi
+    state: 29
+
+- model: api.city
+  pk: 1722
+  fields:
+    name: Champadanga
+    state: 29
+
+- model: api.city
+  pk: 1723
+  fields:
+    name: Bhadreswar
+    state: 29
+
+- model: api.city
+  pk: 1724
+  fields:
+    name: Rishra
+    state: 29
+
+- model: api.city
+  pk: 1725
+  fields:
+    name: Dankuni
+    state: 29
+
+- model: api.city
+  pk: 1726
+  fields:
+    name: Uluberia
+    state: 29
+
+- model: api.city
+  pk: 1727
+  fields:
+    name: Kamarhati
+    state: 29
+
+- model: api.city
+  pk: 1728
+  fields:
+    name: Baranagar
+    state: 29
+
+- model: api.city
+  pk: 1729
+  fields:
+    name: Alambazar
+    state: 29
+
+- model: api.city
+  pk: 1730
+  fields:
+    name: Dunlop
+    state: 29
+
+- model: api.city
+  pk: 1731
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1732
+  fields:
+    name: Dumdum
+    state: 29
+
+- model: api.city
+  pk: 1733
+  fields:
+    name: Rajarhat
+    state: 29
+
+- model: api.city
+  pk: 1734
+  fields:
+    name: Birati
+    state: 29
+
+- model: api.city
+  pk: 1735
+  fields:
+    name: New Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1736
+  fields:
+    name: North Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1737
+  fields:
+    name: Bidhannagar
+    state: 29
+
+- model: api.city
+  pk: 1738
+  fields:
+    name: Bidhannagar (Salt Lake)
+    state: 29
+
+- model: api.city
+  pk: 1739
+  fields:
+    name: Santoshpur
+    state: 29
+
+- model: api.city
+  pk: 1740
+  fields:
+    name: Rajarhat Gopalpur
+    state: 29
+
+- model: api.city
+  pk: 1741
+  fields:
+    name: Barrackpore
+    state: 29
+
+- model: api.city
+  pk: 1742
+  fields:
+    name: Madhyamgram
+    state: 29
+
+- model: api.city
+  pk: 1743
+  fields:
+    name: Barasat
+    state: 29
+
+- model: api.city
+  pk: 1744
+  fields:
+    name: Kakdwip
+    state: 29
+
+- model: api.city
+  pk: 1745
+  fields:
+    name: Patharpratima
+    state: 29
+
+- model: api.city
+  pk: 1746
+  fields:
+    name: Joynagar
+    state: 29
+
+- model: api.city
+  pk: 1747
+  fields:
+    name: Bishnupur
+    state: 29
+
+- model: api.city
+  pk: 1748
+  fields:
+    name: Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1749
+  fields:
+    name: Rajpur Sonarpur
+    state: 29
+
+- model: api.city
+  pk: 1750
+  fields:
+    name: Baruipur
+    state: 29
+
+- model: api.city
+  pk: 1751
+  fields:
+    name: Diamond Harbour
+    state: 29
+
+- model: api.city
+  pk: 1752
+  fields:
+    name: Falakata
+    state: 29
+
+- model: api.city
+  pk: 1753
+  fields:
+    name: Mathabhanga
+    state: 29
+
+- model: api.city
+  pk: 1754
+  fields:
+    name: Abhayapuri
+    state: 29
+
+- model: api.city
+  pk: 1755
+  fields:
+    name: Kalimpong
+    state: 29
+
+- model: api.city
+  pk: 1756
+  fields:
+    name: Kurseong
+    state: 29
+
+- model: api.city
+  pk: 1757
+  fields:
+    name: Shiliguri
+    state: 29
+
+- model: api.city
+  pk: 1758
+  fields:
+    name: Mirik
+    state: 29
+
+- model: api.city
+  pk: 1759
+  fields:
+    name: Jalpaiguri
+    state: 29
+
+- model: api.city
+  pk: 1760
+  fields:
+    name: Alipurduar
+    state: 29
+
+- model: api.city
+  pk: 1761
+  fields:
+    name: Cooch Behar
+    state: 29
+
+- model: api.city
+  pk: 1762
+  fields:
+    name: Birpara
+    state: 29
+
